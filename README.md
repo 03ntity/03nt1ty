@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently looking for job<br>🌱 I’m currently learning roblox studio<br>👯 I’m looking to collaborate on roblox studio
+🌱 I’m currently learning roblox studio<br>👯 I’m looking to collaborate on roblox studio
 
 
 # 💻 Tech Stack:
